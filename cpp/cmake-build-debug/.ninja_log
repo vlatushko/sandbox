@@ -1,0 +1,23 @@
+# ninja log v6
+1	365	1729915261822127842	CMakeFiles/sandbox.dir/main.cpp.o	c81c6459ab158f9
+366	405	1729915262187982726	sandbox	f4bc46cdd258a982
+1	322	1729916180402247450	CMakeFiles/AreaUnderGraph101.dir/src/math_for_games/AreaUnderGraph101.cpp.o	8eae93daf5eaf194
+323	363	1729916180724449600	AreaUnderGraph101	5b58c5c297cf1ae
+4	344	1729916739092098744	CMakeFiles/AreaUnderGraph101.dir/src/math_for_games/AreaUnderGraph101.cpp.o	8eae93daf5eaf194
+344	383	1729916739431845980	AreaUnderGraph101	5b58c5c297cf1ae
+3	343	1729916748025209061	CMakeFiles/AreaUnderGraph101.dir/src/math_for_games/AreaUnderGraph101.cpp.o	8eae93daf5eaf194
+343	381	1729916748364630718	AreaUnderGraph101	5b58c5c297cf1ae
+4	351	1729916913330610844	CMakeFiles/AreaUnderGraph101.dir/src/math_for_games/AreaUnderGraph101.cpp.o	8eae93daf5eaf194
+351	390	1729916913678020282	AreaUnderGraph101	5b58c5c297cf1ae
+4	336	1729917051821044525	CMakeFiles/AreaUnderGraph101.dir/src/math_for_games/AreaUnderGraph101.cpp.o	8eae93daf5eaf194
+336	375	1729917052152940811	AreaUnderGraph101	5b58c5c297cf1ae
+4	351	1729917285070045677	CMakeFiles/AreaUnderGraph101.dir/src/math_for_games/AreaUnderGraph101.cpp.o	8eae93daf5eaf194
+351	390	1729917285416592959	AreaUnderGraph101	5b58c5c297cf1ae
+4	356	1729917507647254505	CMakeFiles/AreaUnderGraph101.dir/src/math_for_games/AreaUnderGraph101.cpp.o	8eae93daf5eaf194
+356	395	1729917507998819312	AreaUnderGraph101	5b58c5c297cf1ae
+4	339	1729917740852244006	CMakeFiles/AreaUnderGraph101.dir/src/math_for_games/AreaUnderGraph101.cpp.o	8eae93daf5eaf194
+339	378	1729917741187685293	AreaUnderGraph101	5b58c5c297cf1ae
+3	344	1729917932945488833	CMakeFiles/AreaUnderGraph101.dir/src/math_for_games/AreaUnderGraph101.cpp.o	8eae93daf5eaf194
+344	382	1729917933285731064	AreaUnderGraph101	5b58c5c297cf1ae
+4	336	1729918187566345429	CMakeFiles/AreaUnderGraph101.dir/src/math_for_games/AreaUnderGraph101.cpp.o	8eae93daf5eaf194
+336	377	1729918187898505129	AreaUnderGraph101	5b58c5c297cf1ae

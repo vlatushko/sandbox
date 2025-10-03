@@ -1,0 +1,4 @@
+/Users/vlatushko/Learning/sandbox/cmake-build-debug/CMakeFiles/sandbox.dir
+/Users/vlatushko/Learning/sandbox/cmake-build-debug/CMakeFiles/AreaUnderGraph101.dir
+/Users/vlatushko/Learning/sandbox/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vlatushko/Learning/sandbox/cmake-build-debug/CMakeFiles/rebuild_cache.dir
