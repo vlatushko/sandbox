@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "google" {
-  project     = "sandbox"
+  project     = "sandbox-474010"
   region      = "us-central1"
 }
 
