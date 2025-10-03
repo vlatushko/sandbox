@@ -7,8 +7,9 @@ terraform {
   }
 }
 
-provider google {
-  # Configuration options
+provider "google" {
+  project     = "sandbox"
+  region      = "us-central1"
 }
 
 data "google_project" "project" {
